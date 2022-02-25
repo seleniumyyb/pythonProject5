@@ -1,0 +1,30 @@
+2022-01-11 22:33:11,598 :INFO :pytestdemo.test_logging :Information statement
+2022-01-11 22:33:11,599 :WARNING :pytestdemo.test_logging :something is in warning mode
+2022-01-11 22:33:11,599 :ERROR :pytestdemo.test_logging :A major error has happend
+2022-01-11 22:33:11,600 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-11 22:33:19,603 :INFO :pytestdemo.test_logging :Information statement
+2022-01-11 22:33:19,604 :WARNING :pytestdemo.test_logging :something is in warning mode
+2022-01-11 22:33:19,604 :ERROR :pytestdemo.test_logging :A major error has happend
+2022-01-11 22:33:19,605 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-11 22:45:29,763 :DEBUG :pytestdemo.test_logging :A debug statement is executed
+2022-01-11 22:45:29,769 :INFO :pytestdemo.test_logging :Information statement
+2022-01-11 22:45:29,770 :DEBUG :pytestdemo.test_logging :A debug statement is executed
+2022-01-11 22:45:29,770 :WARNING :pytestdemo.test_logging :something is in warning mode
+2022-01-11 22:45:29,770 :ERROR :pytestdemo.test_logging :A major error has happend
+2022-01-11 22:45:29,770 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-11 22:47:01,227 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-11 22:47:09,182 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-11 22:47:15,751 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-11 22:47:28,858 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-12 19:10:21,789 :INFO :pytestdemo.BaseClass :Rahul
+2022-01-12 19:10:21,810 :INFO :pytestdemo.BaseClass :rahulshettyacademy.com
+2022-01-12 19:38:41,831 :INFO :pytestdemo.BaseClass :Rahul
+2022-01-12 19:38:41,832 :INFO :pytestdemo.BaseClass :rahulshettyacademy.com
+2022-01-12 19:49:43,776 :INFO :test_editprofile :Rahul
+2022-01-12 19:49:43,777 :INFO :test_editprofile :rahulshettyacademy.com
+2022-01-12 20:15:40,824 :INFO :test_editprofile :Rahul
+2022-01-12 20:15:40,826 :INFO :test_editprofile :rahulshettyacademy.com
+2022-01-12 20:15:40,840 :CRITICAL :pytestdemo.test_logging :Critical issue
+2022-01-12 20:26:01,114 :INFO :test_editprofile :Rahul
+2022-01-12 20:26:01,114 :INFO :test_editprofile :rahulshettyacademy.com
+2022-01-12 20:26:01,119 :CRITICAL :pytestdemo.test_logging :Critical issue
